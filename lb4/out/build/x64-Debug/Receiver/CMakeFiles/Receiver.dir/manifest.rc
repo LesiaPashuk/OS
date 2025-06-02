@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Receiver/CMakeFiles/Receiver.dir/embed.manifest"

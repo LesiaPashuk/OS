@@ -1,0 +1,8 @@
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Receiver/CMakeFiles/Receiver.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Receiver/CMakeFiles/edit_cache.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Receiver/CMakeFiles/rebuild_cache.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Sender/CMakeFiles/Sender.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Sender/CMakeFiles/edit_cache.dir
+C:/Users/sdmit/OS_LAB_4/out/build/x64-Debug/Sender/CMakeFiles/rebuild_cache.dir
